@@ -1,4 +1,4 @@
-# GTA Landing Page]
+# GTA Landing Page
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DonMeg/Projeto-Site-GTA/blob/main/LICENSE) 
 
 ## Descrição do Projeto:
